@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="87px" viewBox="0 0 160 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>语音识别背景</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.502162388">
+        <g id="ai中台002" transform="translate(-737.000000, -665.000000)">
+            <g id="语音识别背景" transform="translate(737.000000, 665.000000)">
+                <rect id="矩形" fill="#171838" x="0" y="0" width="160" height="87"></rect>
+                <circle id="椭圆形" fill="#2B2C4D" opacity="0.5" cx="80" cy="44" r="40"></circle>
+                <circle id="椭圆形" fill="#2B2C4D" opacity="0.378557478" cx="80" cy="44" r="35"></circle>
+                <circle id="椭圆形" fill="#2B2C4D" opacity="0.955891927" cx="80" cy="44" r="30"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

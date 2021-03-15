@@ -1,0 +1,13 @@
+
+// 定义js根目录  定义默认  例如   路径写baseUrl  就是代表.  写paths 
+
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
